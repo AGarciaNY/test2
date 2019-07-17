@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDom from "react-dom";
 
-function App(){
-        return(
-            <div className="app">
+function App() {
+        return (
+            <div>
                 <h1>hi tgitheres</h1>
             </div>
          );
