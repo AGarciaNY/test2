@@ -1,0 +1,13 @@
+import React from "react";
+import ReactDom from "react-dom";
+
+function App(){
+        return(
+            <div className="app">
+                <h1>hi theres</h1>
+            </div>
+         );
+    
+}
+const rootElement=document.getElementById("test");
+ReactDom.render(<App/>,rootElement)
